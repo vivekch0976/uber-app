@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/noob/Documents/Work/DevOps-The-Hard-Way-AWS-main'
+make: Leaving directory '/home/noob/Documents/Work/DevOps-The-Hard-Way-AWS-main'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
